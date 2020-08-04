@@ -52,7 +52,7 @@ LOCALDB_URL=mysql://root:dbpassword@localhost:3306/Project2Dev
 
 ![Alt text](/screenshots/main.PNG "Optional Title")
 
-2. Singup Page
+2. Signup Page
 
 ![Alt text](/screenshots/signup.PNG "Optional Title")
 
