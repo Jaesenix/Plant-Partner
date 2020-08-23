@@ -48,7 +48,8 @@ LOCALDB_URL=mysql://root:dbpassword@localhost:3306/Project2Dev
 
 ## Screenshots
 
-https://plantpartner.herokuapp.com/
+![Plant Partner](https://plantpartner.herokuapp.com/
+)
 
 1. Main Page 
 
